@@ -1,0 +1,7 @@
+{
+  "flood_threshold": 20,
+  "scan_threshold": 10,
+  "whitelist": [
+    "192.168.1.3"
+  ]
+}
